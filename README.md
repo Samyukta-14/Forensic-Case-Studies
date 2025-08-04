@@ -18,6 +18,9 @@ This repository contains a comprehensive collection of digital forensics case st
 - **Forensic Reports** - Detailed analysis and findings for each case
 - **Chain of Custody Forms** - Evidence handling documentation
 
+### Resources
+- **SANS WFA Poster**
+- **Windows XP 7 USB Device Analysis**
 ## Forensic Tools Utilized
 
 ### Primary Analysis Tools
