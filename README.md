@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive collection of digital forensics case studies conducted as part of the CY5210 Information System Forensics course at Northeastern University. Each case demonstrates practical application of digital forensics methodologies, tools, and analysis techniques across various incident types.
+This repository contains a comprehensive collection of digital forensic case studies conducted as part of the CY5210 Information System Forensics course at Northeastern University. Each case demonstrates practical application of digital forensics methodologies, tools, and analysis techniques across various incident types.
 
 ## Repository Structure
 
